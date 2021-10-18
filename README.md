@@ -34,7 +34,7 @@ _________________________________________________________
 ### How does replacing the ninth-grade scores affect the following:
 
 ### - Math and reading scores by grade
-*  Average scores based on grade was slightly altered.
+*  Average scores based on grade were slightly altered.
   *  Grades 10-12 were not altered from the data deletions.
   * Grade 9 saw a reduction on average passing rates due to data deletion.
 ### - Scores by school spending
