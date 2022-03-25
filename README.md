@@ -47,6 +47,7 @@ _________________________________________________________
 *  Average scores by school type were slightly altered. 
   *  Chartered schools still ranked higher in academic performance compared to their district counterparts, but passing rates were slightly reduced.
 
+
 _________________________________________________________
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
